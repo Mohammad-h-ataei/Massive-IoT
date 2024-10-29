@@ -20,6 +20,13 @@ This project leverages Apache Kafka, Python, and Docker to build a scalable and 
 - **data/**: Sample data for testing.
 - **docker-compose.yml**: Docker configuration for running the pipeline.
 
+## Technologies Used
+- **Apache Kafka** for data streaming  
+- **Python** for data processing  
+- **Docker** for containerization  
+- **HTML** for simple visualizations
+
+
 ## Getting Started
 
 1. **Clone the Repository**:
@@ -30,10 +37,3 @@ This project leverages Apache Kafka, Python, and Docker to build a scalable and 
    ```bash
 
    docker-compose up
-
-
-## Technologies Used
-- **Apache Kafka** for data streaming  
-- **Python** for data processing  
-- **Docker** for containerization  
-- **HTML** for simple visualizations
