@@ -25,3 +25,14 @@ This project leverages Apache Kafka, Python, and Docker to build a scalable and 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Mohammad-h-ataei/Massive-IoT.git
+
+2.  **Run with Docker**:
+   ```bash
+
+   docker-compose up
+
+## Technologies Used
+Apache Kafka for data streaming
+Python for data processing
+Docker for containerization
+HTML for simple visualizations
