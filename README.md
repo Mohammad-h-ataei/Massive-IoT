@@ -31,8 +31,9 @@ This project leverages Apache Kafka, Python, and Docker to build a scalable and 
 
    docker-compose up
 
+
 ## Technologies Used
-Apache Kafka for data streaming
-Python for data processing
-Docker for containerization
-HTML for simple visualizations
+- **Apache Kafka** for data streaming  
+- **Python** for data processing  
+- **Docker** for containerization  
+- **HTML** for simple visualizations
